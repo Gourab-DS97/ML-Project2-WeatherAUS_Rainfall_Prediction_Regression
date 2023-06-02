@@ -1,4 +1,4 @@
-# Weather Analytics- <br>Rainfall Prediction in Australia
+# Weather Analytics- <br>Rainfall Prediction in Australia (Regression Project)
 ### Abstract:
 The weatherAUS.csv dataset contains n = 36,881 daily observations from 45 Australian weather stations. The weather data were obtained from the Australian Commonwealth Bureau of Meteorology. The data has been processed to provide a binary target variable RainTomorrow (whether there is rain during the next day; No/Yes) and a continuous target (risk) variable RISK_MM (the amount of rain recorded during the next day).
 
